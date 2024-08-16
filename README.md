@@ -12,6 +12,7 @@ This repository contains the code for Book Generator API which is a single page 
 ![image](https://github.com/user-attachments/assets/249fd3fe-bc6c-4d9c-92a8-cbf9e5a5a7b2)
 ![image](https://github.com/user-attachments/assets/85cde95a-b744-4d26-ab46-559aa8ef9bbb)
 ![image](https://github.com/user-attachments/assets/48eda59b-7c71-41ae-98f9-984ef3376bce)
+![image](https://github.com/user-attachments/assets/6781d6cc-ce4f-4c95-97d1-43457b345252)
 
 
 ## Technologies Used
