@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Fira+Code&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Inter', sans-serif;
+}
+
+html {  
+  scroll-behavior: smooth;  
+}  
+
+.light {  
+  background-color: #aabaf3;  
+}  
+
+.dark {  
+  background-color: rgb(15 23 42); 
+}
