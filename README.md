@@ -19,7 +19,7 @@ This repository contains the code for Book Generator API which is a single page 
 
 To run this project locally, follow these steps:
 
-## Clone the repository:
+### Clone the repository:
 
 ```bash
   git clone https://github.com/SandSnorter/Euphotic_Labs_Assignment.git
@@ -37,7 +37,7 @@ Install the dependencies:
   npm install
 ```
 
-## Running the Server
+### Running the Server
 
 Start the development server:
 
@@ -45,6 +45,6 @@ Start the development server:
   npm run dev
 ```
 
-## Open your browser
+### Open your browser
 
 Navigate to http://localhost:3000 to view the application.
