@@ -22,13 +22,13 @@ To run this project locally, follow these steps:
 ### Clone the repository:
 
 ```bash
-  git clone https://github.com/SandSnorter/Euphotic_Labs_Assignment.git
+  git clone https://github.com/SandSnorter/Book-Generator-API.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-  cd Europhotic_Labs_Assigment
+  cd Book-Generator-API
 ```
 
 Install the dependencies:
